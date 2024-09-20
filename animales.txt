@@ -2,3 +2,7 @@ jaguar
 cuervo
 aguila 
 perro 
+modificado desde github 
+leon
+tigre 
+pantera
